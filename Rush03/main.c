@@ -6,14 +6,14 @@
 /*   By: ypawijit <ypawijit@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/13 12:03:39 by ypawijit          #+#    #+#             */
-/*   Updated: 2021/02/13 18:35:43 by ypawijit         ###   ########.fr       */
+/*   Updated: 2021/02/14 15:21:12 by ypawijit         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 #include <unistd.h>
 
-void	rush(int a, int b);
+void	rush(int x, int y);
 
 int		main(void)
 {
